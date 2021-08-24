@@ -1,0 +1,52 @@
+/*=======================================================================
+	Contact Section
+=======================================================================*/
+.bck-wrapper {
+  width: 100%;
+  max-height: 10% !important;
+  background-image: url(/images/find\ your\ sound.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: unset;
+  position: relative;
+  height: 600px;
+}
+
+.header-text {
+  margin-top: 25%;
+  margin-right: 15%;
+  color: rgba(255, 255, 255, 0.993);
+  font-weight: 800;
+  font-family: Nunito-Regular;
+  text-transform: capitalize !important;
+  text-align: center;
+}
+
+.contact-block {
+  padding-bottom: 100px;
+}
+.contact-section .section-header {
+  margin-bottom: 60px;
+}
+.form-control {
+  padding: 10px;
+  height: auto;
+  border: solid 1px #bbb;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  border-radius: 0;
+  vertical-align: middle;
+}
+.form-control:focus {
+  border-color: #b7a389;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+.contact-form .form-group {
+  margin-bottom: 25px;
+}
+.contact-form .alert {
+  border-radius: 0;
+}
